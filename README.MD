@@ -9,25 +9,24 @@ Can we use PCA as generalization technique?
 
 I am looking for answers those questions in this study, especially the very last one. 
 
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide1.jpg?raw=true))
 
-![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide1.JPG)
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide2.jpg?raw=true))
 
-![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide2.JPG)
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide3.jpg?raw=true))
 
-![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide3.JPG)
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide4.jpg?raw=true))
 
-![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide4.JPG)
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide5.jpg?raw=true))
 
-![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide5.JPG)
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide6.jpg?raw=true))
 
-![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide6.JPG)
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide7.jpg?raw=true))
 
-![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide7.JPG)
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide8.jpg?raw=true))
 
-![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide8.JPG)
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide9.jpg?raw=true))
 
-![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide9.JPG)
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide10.jpg?raw=true))
 
-![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide10.JPG)
-
-![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide11.JPG)
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Slide11.jpg?raw=true))
