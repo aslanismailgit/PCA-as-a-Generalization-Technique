@@ -39,10 +39,7 @@ class PCAGeneralizer(keras.callbacks.Callback):
         X_reduced_tf = tf.matmul(weights_normalized, comps_tf)
         weights_reproduced = tf.tensordot(X_reduced_tf,tf.transpose(comps_tf),axes=1) + mn
         model.layers[1].set_weights([weights_reproduced,weightsB])
-        # print("weights shape            --->", weights.shape)
-        # print(weights[0,0])
-        # print("weights_reproduced shape --->", weights_reproduced.shape)
-        
+       
         f.write(str(num_comps_tf))
         f.write(",")
         f.write(str(logs.get('loss')))
@@ -67,19 +64,16 @@ test_labels = to_categorical(test_labels)
 # test_images = test_images[:2000]
 # test_labels = test_labels[:2000]
 #%%
-dr_rate_arr = [0.70] #[.90, .80, .75, .65, .60, .55, .50, .45, .40, .35, .30] #[.99, .95, .90, .85]
+dr_rate_arr = [.99, .95, .90, .85, .80, .75, .70, .65, .60, .55, .50, .45, .40, .35, .30]
 numOfIter = 10
 numOfEpoch = 50
 for dr_rate in dr_rate_arr:
 
-    # TRAIN SIZE DÜZELT
     for i in range(numOfIter):
         print("run ---------->  ", i, "    dr rate ------->", dr_rate)
-        # print("DR rate -------------------->  ", dr_rate)
 
         _id = time.strftime("_%m_%d_%H_%M_%S")
         fname = "./PCAdrop/varExp_dr_rate_" +str(dr_rate) +  "_run_" + str(i) +  ".txt"
-        # print(fname)
         tf.keras.backend.clear_session()
         model = models.Sequential()
         model.add(layers.Dense(512, activation='relu', input_shape=(28 * 28,)))

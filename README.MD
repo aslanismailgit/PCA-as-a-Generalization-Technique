@@ -1,4 +1,4 @@
-I believe Principal Component Analysis is a powerfull tool and data with different dimensions (weights in this case) reminds me the PCA.
+I believe Principal Component Analysis is a powerful tool and data with different dimensions (weights in this case) reminds me the PCA.
 
 This repo is a struggle to take a deep look into the weights by using PCA. 
 How weights' characteristics change during the training?
