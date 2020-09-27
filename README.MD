@@ -9,24 +9,24 @@ Can we use PCA as generalization technique?
 
 I am looking for answers those questions in this study, especially the very last one. 
 
-![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide1.jpg))
+![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide1.JPG))
 
-![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide2.jpg))
+![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide2.JPG))
 
-![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide3.jpg))
+![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide3.JPG))
 
-![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide4.jpg))
+![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide4.JPG))
 
-![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide5.jpg))
+![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide5.JPG))
 
-![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide6.jpg))
+![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide6.JPG))
 
-![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide7.jpg))
+![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide7.JPG))
 
-![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide8.jpg))
+![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide8.JPG))
 
-![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide9.jpg))
+![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide9.JPG))
 
-![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide10.jpg))
+![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide10.JPG))
 
-![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide11.jpg))
+![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide11.JPG))
