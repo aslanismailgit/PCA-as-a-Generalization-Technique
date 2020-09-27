@@ -1,13 +1,13 @@
-I believe Principal Component Analysis is a powerful tool and data with different dimensions (weights in this case) reminds me the PCA.
+I believe Principal Component Analysis is a powerful technique and data with different dimensions (weights in this case) reminds me the PCA.
 
 This repo is a struggle to take a deep look into the weights by using PCA. 
 How weights' characteristics change during the training?
 Do we need that much of neurons?
-Do we need all those "weights" necessary or a smaller dimension will be enough?
+Do we need all those "weights" or a smaller dimension will be enough?
 Can we change the architecture during the training?
 Can we use PCA as generalization technique?
 
-I am looking for answers those questions in this study, especially the very last one. 
+I am looking for answers (or bringing up !) those questions in this study, especially the very last one. 
 
 ![alt text](https://github.com/aslanismailgit/PCA-as-a-Generalization-Teqhnique/blob/master/images/Slide1.JPG)
 
